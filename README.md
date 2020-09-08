@@ -2,7 +2,7 @@
 
 ## About me 😄
 
-Hey! I'm Juan (he/him) passionate about programming and tech in general, developing software solutions since 18 years old.
+Hey! I'm Juan (he/him) I'm passionate about programming and tech in general, developing professional software solutions since 18 years old.
 
 ## Some stats 📈
 
