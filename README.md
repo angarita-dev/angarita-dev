@@ -1,5 +1,7 @@
-<img align="right" src="https://i.imgur.com/DzmaEgF.png" alt="Header image">
-  
+<p  align="center">
+  <img src="https://i.imgur.com/DzmaEgF.png" alt="Header image">
+</p>
+
 ## About me 😄
 
 Hey! I'm Juan (he/him) I'm passionate about programming and tech in general, developing professional software solutions since 18 years old.
