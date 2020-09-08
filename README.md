@@ -7,7 +7,7 @@ Hey! I'm Juan (he/him) I'm passionate about programming and tech in general, dev
 ## Some stats 📈
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=angarita-dev&show_icons=true&include_all_commits=true&hide=stars" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=angarita-dev&show_icons=true&include_all_commits=true&hide=stars,issues,contributed" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angarita-dev&layout=compact" />
