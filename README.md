@@ -4,7 +4,7 @@
 
 ## About me 😄
 
-Hey! I'm Juan (he/him) I'm passionate about programming and tech in general, developing professional software solutions since 18 years old.
+Hey! I'm Juan (he/him) passionate about programming and tech in general, developing professional software solutions since I'm 18 years old.
 
 ## Some stats 📈
 
@@ -16,7 +16,7 @@ Hey! I'm Juan (he/him) I'm passionate about programming and tech in general, dev
 </a>
 
 ## Currently using 🔧
-Building awesome solutions with awesome technologies.
+I'm currently using this tech stack to ship solutions.
 
 [![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=FCC624)](https://www.linux.org/pages/download/)
 [![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=019733)](https://www.vim.org/)
@@ -34,7 +34,7 @@ Building awesome solutions with awesome technologies.
 [![](https://img.shields.io/badge/Tools-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=336791)](https://www.postgresql.org/)
 
 ## Currently learning 📖
-I always like to keep learning, this is my to-learn list.
+I always like to keep learning, check to-learn list!.
 
 [![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=E10098)](https://graphql.org/)
 [![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)](https://kubernetes.io/)
@@ -43,7 +43,7 @@ I always like to keep learning, this is my to-learn list.
 [![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=000000)](https://www.rust-lang.org/)
 
 ## How to reach me 📬
-Feel free to contact me using LinkedIn messages or if feeling formal write me an email.
+Feel free to contact me using LinkedIn messages or write me an email.
 
 [![](https://img.shields.io/badge/Lets%20connect-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-escobar-angarita-643593186/)
 [![](https://img.shields.io/badge/-Email%20me-informational?style=flat&color=D14836&logo=gmail&logoColor=white)](mailto:angarita.dev@gmail.com)
