@@ -45,5 +45,5 @@ I always like to keep learning, check to-learn list!.
 ## How to reach me 📬
 Feel free to contact me using LinkedIn messages or write me an email.
 
-[![](https://img.shields.io/badge/Lets%20connect-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-escobar-angarita-643593186/)
+[![](https://img.shields.io/badge/Lets%20connect-informational?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/angarita-dev)
 [![](https://img.shields.io/badge/-Email%20me-informational?style=flat&color=D14836&logo=gmail&logoColor=white)](mailto:angarita.dev@gmail.com)
